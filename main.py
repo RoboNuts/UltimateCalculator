@@ -3,7 +3,7 @@ import math
 
 '''
 Project: Operation Calculator
-by: Jack Vande Vegte
+by: Jack aka RoboNuts
 Date made: 1/25/2022
 Date last updated: 1/26/2022
 '''
